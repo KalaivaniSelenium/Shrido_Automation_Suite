@@ -28,6 +28,6 @@ public class EmailConfig {
     public static final String PASSWORD = "edms fobc anpe psxl";
     		
 
-    public static final String[] TO = {"karthicksubramani970@gmail.com"};
+    public static final String[] TO = {"karthicksubramani970@gmail.com,arun@thinktime.in"};
     public static final String SUBJECT = FrameworkConstants.REPORT_TITLE + " | "+ executionDateOnly;
 }
