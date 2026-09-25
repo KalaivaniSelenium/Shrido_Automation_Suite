@@ -1,0 +1,21 @@
+{
+    "start_address":"Satellite Rd, Padsala Banglows, Mota Varachha, Surat, Gujarat 394101",
+    "start_lat":21.232300,
+    "start_long":72.878296,
+    "end_address":"145, 1ST FLOOR, OPERA BUSINESS HUB, Lajamni Chowk, Maruti Dham Society, Mota Varachha, Surat, Gujarat 394101",
+    "end_lat":21.238694354396234,
+    "end_long":72.88874755568285,
+    "no_of_seats":3,
+    "start_desired_time":"05:30pm",
+    "start_latest_time":"05:30pm",
+    "start_date":"2025-08-27",
+    "trip_type":"initial",
+    "return_desired_time":"6:00pm",
+    "return_latest_time":"6:30pm",
+    "repeat_week":false,
+    "days_of_week":[],
+    "recurring_trip":false,
+    "no_of_week_repeat":0,
+    "estimate":4.5,
+    "trip_created_by":2
+}

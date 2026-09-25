@@ -1,0 +1,10 @@
+{
+  "is_driver_price_suggested": true,
+  "price_value": {
+    "Upto 5Kms per seat": 150,
+    "Upto 10Kms per seat": 600,
+    "Upto 20Kms per seat": 1500,
+    "Upto 100Kms per seat": 1300,
+    "Upto 150Kms per seat": 4000
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "subscription_plan_id":1,
+    "type":2, 
+    "amount":12,
+    "period":1, 
+    "free_trial_period":null, 
+    "ios_plan_id":"one.month.com.shrido.app",
+    "android_plan_id":"com-shrido-app-one-month"
+}

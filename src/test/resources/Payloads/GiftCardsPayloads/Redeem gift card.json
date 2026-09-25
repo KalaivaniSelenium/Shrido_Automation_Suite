@@ -1,0 +1,23 @@
+{
+    "Title": "Coles Digital eGift Card",
+    "ProductID": "coles-egift-card",
+    "Image": "https://truerewards.com.au/catalogue/product/image/front/27",
+    "Values": [
+        "25",
+        "50",
+        "100",
+        "250"
+    ],
+    "Category": [
+        "Dining and Food"
+    ],
+    "Content": [
+        {
+            "expiryText": "<p><span style=\"font-weight: bold;\">Valid for 3 years.</span></p>",
+            "description": "<p>The Coles Gift Card allows you to choose from a wide selection of local, regional and imported groceries and produce at Coles Supermarkets nationwide. Terms &amp; Conditions apply.</p>",
+            "terms": "<p>Key conditions\r\n of use:</p><p>Treat this gift card like cash. Stolen gift cards will not be replaced or refunded. To be used for the purchase of goods and services at Coles Supermarkets and Coles Central. The card cannot be redeemed at Coles Online, Coles Express or Liquorland.</p><p>Not redeemable for cash or payments of credit cards or store accounts. Gift cards cannot be used to purchase gift cards. This card will expire 3 years from the issue date. For full terms of Use, expiry date or customer service visit giftcards.com.au or phone 1300 304 990.</p><p>PLEASE TREAT THIS EGIFT CARD LIKE CASH AND SAFEGUARD IT ACCORDINGLY</p>"
+        }
+    ],
+    "Amount":25,
+    "RecipientEmail":"sanganidarshan10@yopmail.com"
+}

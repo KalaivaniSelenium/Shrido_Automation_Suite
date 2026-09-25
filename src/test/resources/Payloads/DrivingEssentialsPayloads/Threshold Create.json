@@ -1,0 +1,10 @@
+{
+    "car_type":"ABC",
+    "registration_fee_annual":1001,
+    "insurance":1000,
+    "servicing_and_tyre_cost":600,
+    "road_side_assistance":200,
+    "fuel":100,
+    "parking":0,
+    "toll":0
+}

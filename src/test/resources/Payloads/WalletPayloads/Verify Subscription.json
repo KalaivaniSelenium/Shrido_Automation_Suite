@@ -1,0 +1,59 @@
+{
+    "event": {
+        "id": "FF6BD703-5B39-4321-BDDB-96D1861D7197",
+        "type": "RENEWAL",
+        "price": 0.334,
+        "store": "APP_STORE",
+        "app_id": "appdcb2010542",
+        "aliases": [
+            "$RCAnonymousID:7fa30c9655bf4d30b02c043325ec93ac",
+            "$RCAnonymousID:89b859714e3d4552b235b5834de983c8",
+            "$RCAnonymousID:0f43a7d553ff4f0c9ed653bfcf589f70"
+        ],
+        "currency": "INR",
+        "metadata": null,
+        "offer_code": null,
+        "product_id": "coma.shrido.app.one",
+        "app_user_id": "$RCAnonymousID:89b859714e3d4552b235b5834de983c8",
+        "environment": "SANDBOX",
+        "period_type": "NORMAL",
+        "country_code": "IN",
+        "entitlement_id": null,
+        "renewal_number": 19,
+        "tax_percentage": 0.1525,
+        "transaction_id": "2000000875078242",
+        "entitlement_ids": [
+            "coma.shrido.app.one"
+        ],
+        "is_family_share": false,
+        "purchased_at_ms": 1742021083000,
+        "expiration_at_ms": 1742021383000,
+        "event_timestamp_ms": 1742021090150,
+        "is_trial_conversion": false,
+        "takehome_percentage": 0.7,
+        "original_app_user_id": "$RCAnonymousID:0f43a7d553ff4f0c9ed653bfcf589f70",
+        "commission_percentage": 0.2542,
+        "presented_offering_id": "coma.shrido.app.one",
+        "subscriber_attributes": {
+            "email": {
+                "value": "abcxyz@yopmail.com",
+                "updated_at_ms": 1742019940476
+            },
+            "displayName": {
+                "value": "new tester driver",
+                "updated_at_ms": 1742019940478
+            },
+            "phoneNumber": {
+                "value": "+6112211221",
+                "updated_at_ms": 1742019940477
+            },
+            "$attConsentStatus": {
+                "value": "authorized",
+                "updated_at_ms": 1742017196628
+            }
+        },
+        "original_transaction_id": "2000000875056900",
+        "price_in_purchased_currency": 29
+    },
+    "api_version": "1.0"
+}

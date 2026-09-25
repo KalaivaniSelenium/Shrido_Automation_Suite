@@ -1,0 +1,7 @@
+{
+    "ride_status":false,
+    "wallet_updates":true,
+    "chat_updates":true,
+    "mate_request":true,
+    "claim_reward":true
+}

@@ -1,0 +1,10 @@
+{
+    "registration_cost":1425,
+    "insurance_cost":4000,
+    "servicing_cost":1500,
+    "roadside_assistance":300,
+    "fuel_cost":160,
+    "parking_perDay":30,
+    "parking_perWeek":200,
+    "toll_charges_perDay":20
+}

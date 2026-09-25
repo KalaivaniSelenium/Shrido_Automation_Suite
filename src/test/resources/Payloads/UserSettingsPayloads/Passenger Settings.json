@@ -1,0 +1,6 @@
+{
+    "route_match":50,
+    "time_range":60,
+    "is_driver_price_suggested":false,
+    "is_same_gender_travel":true
+}

@@ -1,0 +1,10 @@
+{
+    "transactionAmount":"10.00",
+    "transactionCurrency":"AUD",
+    
+    "cardId":"pm_1RySCsKlL3jFo92fyfwEChSV",
+    
+    "payment_as":"passenger",
+    "subscription_plan_id":null,
+    "customerId": "cus_SnBgraSPW5G1j9"
+	}
